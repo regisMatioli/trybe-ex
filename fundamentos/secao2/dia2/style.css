@@ -1,0 +1,24 @@
+h2{
+    font-family: monospace ;
+    background-color: black;
+    color: green;
+    font-size: 30px;
+  }
+  h1{
+    font-family: monospace ;
+    background-color: black;
+    color: green;
+    font-size: 40px;
+  }
+  body{
+    text-align: center;
+    background-image: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/27/09/matrix-code.jpg?quality=75&width=1200&auto=webp);      }
+  #link1{
+    background-color: rgb(4, 112, 0)
+  }
+  #bio{
+   background-color: rgb(157, 192, 92);
+   line-height: 15px;
+   text-align: center;
+    
+  }
