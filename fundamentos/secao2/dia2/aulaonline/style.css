@@ -38,6 +38,10 @@
 .botao{
    background-color: #000000;
    border-radius: 20px;
+   color: white;
+   font-family: Poppins,sans-serif;
+   text-align: center;
+   
 }
   #subtitulo{
    font-family: Poppins, sans-serif;
