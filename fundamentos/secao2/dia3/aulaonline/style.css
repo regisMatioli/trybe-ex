@@ -1,0 +1,78 @@
+
+ body{
+    background-image: url(https://t4.ftcdn.net/jpg/05/34/87/15/360_F_534871551_MOmx3mu3oP1TkmUW8ZDffLpHrv86LLrE.jpg)
+    
+   }
+   #titulo{
+       font-family: Poppins, sans-serif;
+       font-size: 38px;
+       font-weight: 700;
+   
+   }
+   hhhh{
+       font-family: Poppins,sans-serif;
+       color:#c9c618;
+       
+   }
+   hhhh1{
+       font-family: Poppins,sans-serif;
+       color:#94580f;
+       
+   }
+  .centro {
+     text-align: center;
+   }
+   #foto1 {
+       text-align: center;
+   }
+.bordinha{
+   border-radius: 80px;
+}
+.botao{
+   background-color: #000000;
+   border-radius: 20px;
+   color: white;
+   font-family: Poppins,sans-serif;
+   text-align: center;
+   width: 200px;
+   height: 50%;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+  .subtitulo{
+    
+    background-color: bisque;
+   font-family: Poppins, sans-serif;
+   color: #94580f;
+   font-size: 25px;
+    width: 80%;
+   height: 80%;
+   overflow: auto;
+   padding-left: 25px;
+   padding-right: 25px;
+   margin-left: auto;
+   margin-right: auto;
+
+   border-radius: 20px;
+   
+  }
+  .texto-normal{
+   font-family: Poppins;
+   text-align: left;
+   width: 80%;
+   height: 80%;
+   margin-left: auto;
+   margin-right: auto;
+}
+#testeesquerda{
+    float: left;
+    width: 50%;
+}
+#testedireita{
+    float: right;
+    width: 50%;
+}
+#final{
+    clear:both;
+}
