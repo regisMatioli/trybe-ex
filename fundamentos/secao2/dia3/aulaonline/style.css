@@ -64,6 +64,8 @@
    height: 80%;
    margin-left: auto;
    margin-right: auto;
+   color: #94580f
+;
 }
 #testeesquerda{
     float: left;
@@ -75,4 +77,17 @@
 }
 #final{
     clear:both;
+}
+.texto-normal:hover{
+    background-image: url(https://w7.pngwing.com/pngs/194/745/png-transparent-eric-cartman-kyle-broflovski-cartman-sucks-stan-marsh-others-child-face-head.png) ;
+    background-size: 250px;
+    background-position-x: center;
+    background-position-y: ;
+    background-repeat: no-repeat;
+
+}
+.texto-normal:active{
+    background-image: url(https://p7.hiclipart.com/preview/14/280/888/eric-cartman-t-shirt-kenny-mccormick-hoodie-bluza-t-shirt-thumbnail.jpg) ;
+    background-size: 300px;
+    
 }
